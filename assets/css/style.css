@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    font-weight: bolder;
+}
+
+span {
+    font-size: 1.5em;
+}
+
